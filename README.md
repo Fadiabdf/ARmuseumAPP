@@ -3,6 +3,8 @@
 
 **MuseAR** is a mobile augmented reality (AR) application that transforms any space into a rich, interactive museum experience. Designed to make cultural heritage accessible, immersive, and engaging, MuseAR allows users to explore 3D models of dinosaurs, ancient artifacts, art, and scientific innovations right from their device.
 
+![MuseAR-preview](./assets/MuseAR-preview.png) 
+
 ---
 
 ## 📲 Download & Try It
@@ -12,7 +14,7 @@
 - **📥 Download the APK**: [MuseAR App](https://your-download-link.com)  
 - **🖼️ Download the target images**: [Target Images Folder](https://drive.google.com/drive/folders/1JUUThCjd6cHNbs52oVQeagDx-QfrtB4f?usp=drive_link)  
 - **🧾 Poster of the App**:  
-  ![MuseAR Poster](./assets/musear-poster.png)
+  ![MuseAR Poster](./assets/poster.png)
 
 ---
 
@@ -20,7 +22,7 @@
 
 MuseAR uses Vuforia's AR engine to recognize printed images and overlay them with dynamic 3D content. Here's a simplified workflow:
 
-![Workflow Diagram](./assets/workflow-diagram.png)
+![Workflow Diagram](./assets/flow.png)
 
 1. Launch the app and configure language / dark mode.
 2. Scan printed target images using your phone's camera.
@@ -61,15 +63,18 @@ MuseAR includes **17+ high-quality 3D models**, categorized into:
 
 ---
 
-## 🧑‍💻 Authors
+## Team Members
 
-- Boudiaf Fadia  
-- Herkat Wifak  
-- Zoutat Marwa  
-- Larbaoui Yasmine  
-- Hamed Hiba  
-- Merabet Mohamed  
-
+| Name             | Email                                            |
+| ---------------- | ------------------------------------------------ |
+| Fadia Boudiaf    | [lf\_boudiaf@esi.dz](mailto:lf_boudiaf@esi.dz)   |
+| Wifak Herkat     | [lw\_herkat@esi.dz](mailto:lw_herkat@esi.dz)     |
+| Marwa Zoutat     | [lm\_zoutat@esi.dz](mailto:lm_zoutat@esi.dz)     |
+| Yasmine Larbaoui | [ky\_larbaoui@esi.dz](mailto:ky_larbaoui@esi.dz) |
+| Hiba Hamed       | [lh\_hamed@esi.dz](mailto:lh_hamed@esi.dz)       |
+| Mohamed Merabet  | [lm\_merabet@esi.dz](mailto:lm_merabet@esi.dz)   |
+ 
+***Module RV – Réalité Virtuelle Groupe SIQ1 ESI (École nationale supérieure d'informatique)***
 ---
 
 ## 📬 Contact & Feedback
