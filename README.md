@@ -1,7 +1,7 @@
 # ARmuseumAPP
 # 🏛️ MuseAR — Augmented Reality Museum
 
-**MuseAR** is a mobile augmented reality (AR) application that transforms any space into a rich, interactive museum experience. Designed to make cultural heritage accessible, immersive, and engaging, MuseAR allows users to explore 3D models of dinosaurs, ancient artifacts, art, and scientific innovations — right from their device.
+**MuseAR** is a mobile augmented reality (AR) application that transforms any space into a rich, interactive museum experience. Designed to make cultural heritage accessible, immersive, and engaging, MuseAR allows users to explore 3D models of dinosaurs, ancient artifacts, art, and scientific innovations right from their device.
 
 ---
 
@@ -10,7 +10,7 @@
 > 💡 Print the **target images** and scan them using the app to trigger 3D AR content!
 
 - **📥 Download the APK**: [MuseAR App](https://your-download-link.com)  
-- **🖼️ Download the target images**: [Target Images Folder](https://your-target-images-folder.com)  
+- **🖼️ Download the target images**: [Target Images Folder](https://drive.google.com/drive/folders/1JUUThCjd6cHNbs52oVQeagDx-QfrtB4f?usp=drive_link)  
 - **🧾 Poster of the App**:  
   ![MuseAR Poster](./assets/musear-poster.png)
 
