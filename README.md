@@ -11,7 +11,7 @@
 
 > 💡 Print the **target images** and scan them using the app to trigger 3D AR content!
 
-- **📥 Download the APK**: [MuseAR App](https://your-download-link.com)  
+- **📥 Download the APK**: [MuseAR App](https://drive.google.com/file/d/1IYjHV8zvkfp37qOLN9vTU3EegpwsesEf/view?usp=drive_link)  
 - **🖼️ Download the target images**: [Target Images Folder](https://drive.google.com/drive/folders/1JUUThCjd6cHNbs52oVQeagDx-QfrtB4f?usp=drive_link)  
 - **🧾 Poster of the App**:  
   ![MuseAR Poster](./assets/poster.png)
